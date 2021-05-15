@@ -28,7 +28,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-!**/data/.gitkeep
+! **/data/.gitkeep
 
-**/data
+**/data/*
 
